@@ -47,7 +47,7 @@ Esse projeto foi inspirado na hype "Natty or Not" do fisiculturismo, este Lab da
 
 Utilizando essas tecnologias para criar conteúdos que sejam o mais realista possível. Como geração de conteúdo foi utilizado o ChatGPT e Gamma.app para criação de um e-book.
 
-Como tema, foram considerandos conteúdos detalhados sobre o Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3.
+Como tema, foram considerados conteúdos detalhados sobre o Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3.
 
 Explorado todos os conceitos que aprendemos nesse bootcamp. 
 <br><br>
