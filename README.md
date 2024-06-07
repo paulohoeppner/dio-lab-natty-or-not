@@ -1,51 +1,74 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+<div align="center">
+    <h1>Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3</h1>
+</div>
+<br><br>
 
-## 🚀 Introdução
+<div align="center">
+    <img src="assets\images\dio-logo.png" width="250" height="100" hspace="25">
+    <img src="assets\images\nexa-logo.png" width="" height="75" hspace="25">               
+</div>
+<br><br>
 
-> Woooow! Look at this 👀
+<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="250" hspace="">
+</div>
+<br><br>
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+<div align="center"><img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10">
+</div>     
+<br><br>
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+<div align="center">
+    <img src="assets/images/amazon-bedrock.png" width="40" height="40" hspace="10">          
+    <img src="assets/images/claude3.png" width="50" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" hspace="10">                     
+</div>
+<br><br>
 
-### Objetivos
+<div align="center">
+    <img src="https://img.shields.io/badge/IN%C3%8DCIO-28%2F05%2F2024-green" hspace="5"/>
+    <img src="https://img.shields.io/badge/T%C3%89RMINO-09%2F06%2F2024-red" hspace="5"/>
+</div>
+<br>
+<hr>
+<div align="center">
+<h3>10 horas | 6 cursos | 1 desafios de projeto | 1 desafios de código | 4 lives</h3>
+</div>
+<hr>
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## Introdução
+Olá,
 
-### Template
+Esse repositório corresponde ao projeto "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" da [DIO - Digital Innovation One](https://www.dio.me/).
+<hr>
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## Objetivo
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto foi inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO proporcionou conhecer o mundo das IAs Generativas. Explorando o potencial dessas tendências tecnológicas incríveis.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizando essas tecnologias para criar conteúdos que sejam o mais realista possível. Como geração de conteúdo foi utilizado o ChatGPT e Gamma.app para criação de um e-book.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Como tema, foram considerandos conteúdos detalhados sobre o Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Explorado todos os conceitos que aprendemos nesse bootcamp. 
+<br><br>
+<hr>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## Próximos passos
 
-### Exemplos e Insigths
+Continuar o evoluindo no estudo no mundo das IAs Generativas para futuros projetos e aplicações. 
+<hr>
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## Tecnologias Utilizadas
 
-## Links Interessantes
+<img align=center src="assets/images/inteligencia-artificial-ia.png" width="" height="50" hspace="5"/>
+<img align=center src="assets/images/ia-generativa.png" width="" height="50" hspace="5"/>
+<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="" height="60" hspace="5"/>
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## Cursos Envolvidos
+### **Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3** 
+#### **Explorando IAs Generativas na AWS:**
+- Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
+<hr>
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Agradecimentos
+Gostaria de agradecer a [DIO - Digital Innovation One](https://www.dio.me/) e ao instrutor [Venilton FalvoJr](https://github.com/falvojr) por compartilhar seu conhecimento.
