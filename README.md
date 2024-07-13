@@ -1,15 +1,5 @@
 <div align="center">
-    <h1>Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3</h1>
-</div>
-<br><br>
-
-<div align="center">
-    <img src="assets\images\dio-logo.png" width="250" height="100" hspace="25">
-    <img src="assets\images\nexa-logo.png" width="" height="75" hspace="25">               
-</div>
-<br><br>
-
-<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="250" hspace="">
+    <h1>Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!</h1>
 </div>
 <br><br>
 
@@ -18,22 +8,22 @@
 <br><br>
 
 <div align="center">
-    <img src="assets/images/amazon-bedrock.png" width="40" height="40" hspace="10">          
-    <img src="assets/images/claude3.png" width="50" height="40" hspace="10">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" hspace="10">                     
+    <img align="center" src="assets\images\nexa-logo.png" width="" height="60" hspace="40">
+    <img align="center" src="assets\images\vivo-logo.png" width="" height="90" hspace="25">               
 </div>
 <br><br>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/IN%C3%8DCIO-28%2F05%2F2024-green" hspace="5"/>
-    <img src="https://img.shields.io/badge/T%C3%89RMINO-09%2F06%2F2024-red" hspace="5"/>
+    <img align="center" src="assets\images\bootcamp-nexa.png" width="" height="120" hspace="50">
+    <img align="center" src="assets\images\bootcamp-vivo.png" width="" height="200" hspace="50">
 </div>
-<br>
-<hr>
+<br><br>
+
 <div align="center">
-<h3>10 horas | 6 cursos | 1 desafios de projeto | 1 desafios de código | 4 lives</h3>
+    <img align="center" src="assets/images/ia-generativa.png" alt="IA Generativa" width="" height="60"><p>IA Generativa</p>         
 </div>
-<hr>
+<br><br>
+
 
 ## Introdução
 Olá,
@@ -56,18 +46,34 @@ Explorado todos os conceitos que aprendemos nesse bootcamp.
 ## Próximos passos
 
 Continuar o evoluindo no estudo no mundo das IAs Generativas para futuros projetos e aplicações. 
+<br>
 <hr>
 
 ## Tecnologias Utilizadas
 
-<img align=center src="assets/images/inteligencia-artificial-ia.png" width="" height="50" hspace="5"/>
-<img align=center src="assets/images/ia-generativa.png" width="" height="50" hspace="5"/>
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="" height="60" hspace="5"/>
+<div>
+    <img align=center src="assets/images/inteligencia-artificial-ia.png" height="50" hspace="5"/>
+    <img align=center src="assets/images/ia-generativa.png" height="50" hspace="5"/>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="60" hspace="5"/>
+</div>
 
 ## Cursos Envolvidos
-### **Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3** 
-#### **Explorando IAs Generativas na AWS:**
+### Bootcamp:
+- Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3:
+    - Explorando IAs Generativas na AWS.
+
+- Python AI Backend Developer:
+   - Desmistificando os Pilares da Inteligência Artificial (IA)
+
+### Desafio de projeto:
 - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
+<hr>
+
+## Repositório Original do GitHub
+Referência direta ao código-fonte original.
+
+- Venilton FalvoJr: [Venilton FalvoJr](https://github.com/falvojr)
+- Endereço DIO: [lab-natty-or-not](https://github.com/digitalinnovationone/lab-natty-or-not)
 <hr>
 
 ## Agradecimentos
